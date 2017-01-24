@@ -1,0 +1,30 @@
+.logoi{
+	display:table;
+	margin:auto;
+	height: 50px;
+	
+}
+.headerb{
+	border:none;
+	background-color: #000 !important;
+	padding: 2px 0px ;
+}
+.menub{
+	padding: 0px 17px;
+	background-color: #000 !important;
+	color: #fff !important;
+	margin:0 !important;
+	line-height: 0;
+	top: 0;
+	height: 100%;
+	border:none;
+	border-right: 1px #fff solid;
+	
+}
+#map_canvas { 
+
+
+	border: 5px solid #ddd;
+	
+	
+	 }
